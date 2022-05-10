@@ -1,0 +1,14 @@
+asyncio==3.4.3
+logger==1.4
+MarkupSafe==2.1.1
+orjson==3.6.8
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycares==4.1.2
+pycparser==2.21
+pydantic==1.9.0
+python-dotenv==0.20.0
+python-multipart==0.0.5
+PyYAML==6.0
+slixmpp==1.8.2
+uvicorn==0.17.6
